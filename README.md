@@ -1,1 +1,1 @@
-# -sosotable-food-mbti-vanilla
+# sosotable-food-mbti-vanilla
